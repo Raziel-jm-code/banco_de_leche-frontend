@@ -34,12 +34,12 @@ Sigue estos pasos para instalar y configurar el proyecto:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/Raziel-jm-code/banco_de_leche-front.git
+    git clone https://github.com/Raziel-jm-code/banco_de_leche-fronted.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd banco_de_leche-front
+    cd banco_de_leche-fronted
     ```
 
 3. Instala las dependencias:
