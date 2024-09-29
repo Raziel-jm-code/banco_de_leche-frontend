@@ -1,9 +1,5 @@
 # 🍼 Banco de Leche Materna - Frontend
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Raziel-jm-code/banco_de_leche-front)
-![GitHub issues](https://img.shields.io/github/issues/Raziel-jm-code/banco_de_leche-front)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Raziel-jm-code/banco_de_leche-front)
-
 Este es el **frontend** del sistema de gestión para el Banco de Leche Materna, diseñado para proporcionar una interfaz de usuario intuitiva y fácil de usar para gestionar la información relacionada con donantes, neonatos y la leche materna. 🌐
 
 ## ✨ Características Principales
